@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pmpr AMP\n"
+"POT-Creation-Date: 2022-11-23 14:29+0330\n"
+"PO-Revision-Date: 2022-11-23 14:32+0330\n"
+"Last-Translator: Farshadi <pmpr.ir@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Source-Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: src/Pmpr/Module/FAQ/FAQ.php:20
+msgid "FAQ"
+msgstr "سوالات متداول"
+
+#: src/Pmpr/Module/FAQ/Model/Question.php:25
+#: src/Pmpr/Module/FAQ/Model/Question.php:37
+msgid "Question"
+msgstr "سوال"
+
+#: src/Pmpr/Module/FAQ/Model/Question.php:26
+msgid "Questions"
+msgstr "سوالات"
+
+#: src/Pmpr/Module/FAQ/Model/Question.php:40
+msgid "Pending"
+msgstr "در انتظار"
+
+#: src/Pmpr/Module/FAQ/Model/Question.php:41
+msgid "Publish"
+msgstr "منتشر شده"
+
+#: src/Pmpr/Module/FAQ/Model/Question.php:42
+msgid "Status"
+msgstr "وضعیت"
+
+#: src/Pmpr/Module/FAQ/Model/Question.php:45
+msgid "Priority"
+msgstr "الویت"
+
+#: src/Pmpr/Module/FAQ/Model/Question.php:49
+msgid "Creator"
+msgstr "ایجاد کننده"
+
+#: src/Pmpr/Module/FAQ/Model/Question.php:52
+msgid "Response"
+msgstr "پاسخ"
+
+#: src/Pmpr/Module/FAQ/Page.php:20
+msgid "Frequently Asked Questions"
+msgstr "سوالات متداول"
+
+#~ msgid "Something wrong on save your message."
+#~ msgstr "اشکالی در فرایند ذخیره پیغام شما رخ داده است."
+
+#~ msgid "Something wrong on save your rate."
+#~ msgstr "اشکالی در ذخیره امتیاز شما رخ داده است."
+
+#~ msgid "Request is not valid, please try again."
+#~ msgstr "درخواست شما معتبر نیست، لطفا دوباره سعی کنید."
+
+#~ msgid "Can not save your posted data. try latter please."
+#~ msgstr "قادر به ذخیره داده‌ ارسالی شما نیستیم، لطفا مجددا تلاش کنید."
+
+#~ msgid "Required data not provided or not valid."
+#~ msgstr "داده‌های الزامی ارسال نشد‌اند یا معتبر نیستند."
+
+#~ msgid "Rate is not recorded. please try again."
+#~ msgstr "امتیاز ثبت نشد، لطفا دوباره تلاش کنید."
+
+#, php-format
+#~ msgid "Rating Average %s of %s | Rating Count: %s"
+#~ msgstr "میانگین امتیاز  %s از %s |  تعداد امتیاز: %s"
+
+#~ msgid "Your opinion is important to us"
+#~ msgstr "نظر شما برای ما مهمه"
+
+#, php-format
+#~ msgid "Rate this post %s to %s"
+#~ msgstr "به این نوشته از %s تا %s امتیاز بدین"
+
+#, php-format
+#~ msgid "You have already rate %s to this post."
+#~ msgstr "شما قبلا امتیاز %s را برای این نوشته ثبت کرده‌اید."
+
+#~ msgid "Rating Feedback"
+#~ msgstr "بازخورد امتیاز"
+
+#~ msgid "Submit"
+#~ msgstr "تایید"
+
+#~ msgid "Feedback"
+#~ msgstr "بازخورد"
+
+#~ msgid "Feedbacks"
+#~ msgstr "بازخوردها"
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Post"
+#~ msgstr "نوشته‌"
+
+#~ msgid "Owner"
+#~ msgstr "کاربر"
+
+#~ msgid "IP"
+#~ msgstr "آی پی"
+
+#~ msgid "Show Post"
+#~ msgstr "نمایش نوشته‌ها"
+
+#~ msgid "Rate"
+#~ msgstr "امتیاز"
+
+#~ msgid "Rates"
+#~ msgstr "امتیاز‌ها"
+
+#~ msgid "Value"
+#~ msgstr "مقدار"
+
+#~ msgid "Extremely Poor"
+#~ msgstr "شدیدا ضعیف"
+
+#~ msgid "Bad"
+#~ msgstr "بد"
+
+#~ msgid "Average"
+#~ msgstr "متوسط"
+
+#~ msgid "Good"
+#~ msgstr "خوب"
+
+#~ msgid "Excellent"
+#~ msgstr "عالی"
+
+#~ msgid "Rating"
+#~ msgstr "امتیازدهی"
+
+#~ msgid "Rating Setting"
+#~ msgstr "تنظیمات امتیازدهی"
+
+#~ msgid "Setting"
+#~ msgstr "تنظیمات"
+
+#~ msgid "General"
+#~ msgstr "عمومی"
+
+#~ msgid "Target Post Types"
+#~ msgstr "نوع نوشته‌ها"
+
+#~ msgid "Exclude Posts"
+#~ msgstr "نوشته‌های مستثنی"
+
+#~ msgid "Thanks Message"
+#~ msgstr "پیغام تشکر"
+
+#~ msgid "Thanks for your rating."
+#~ msgstr "از امتیاز‌ی که دادید متشکریم."
+
+#~ msgid "Enable Feedback"
+#~ msgstr "فعال سازی بازخورد"
+
+#~ msgid "Worse Threshold"
+#~ msgstr "آستانه بدترین امتیاز"
+
+#~ msgid "Ask a feedback question, if user rate less than threshold."
+#~ msgstr ""
+#~ "در صورتی که کاربر کمتر از آستانه امتیاز دهد، یک فرم بازخورد نشان داده "
+#~ "خواهد شد."
+
+#~ msgid "Share the reason behind this submission with us."
+#~ msgstr "علت ثبت این امتیاز کم رو با ما در میان بگذارید."
+
+#~ msgid "Feedback Message"
+#~ msgstr "پیغام بازخورد"
+
+#~ msgid "Thanks for your feedback."
+#~ msgstr "بابت بازخوردتون ممنونیم."
+
+#~ msgid ""
+#~ "Sorry, this file couldn't be sanitized so for security reasons wasn't "
+#~ "uploaded"
+#~ msgstr ""
+#~ "متاسفم، قادر به پاکسازی فایل مورد نظر نبودیم، به دلایل امنیتی فایل آپلود "
+#~ "نشد"
+
+#~ msgid "Full Size"
+#~ msgstr "اندازه کامل"
+
+#~ msgid "Thumbnail"
+#~ msgstr "تصویر بند انگشتی"
+
+#~ msgid "Medium"
+#~ msgstr "متوسط"
+
+#~ msgid "Large"
+#~ msgstr "بزرگ"
+
+#~ msgid "AMP"
+#~ msgstr "شتابدهی موبایل"
+
+#~ msgid "Enable AMP"
+#~ msgstr "فعال سازی شتابدهی موبایل"
+
+#~ msgid "Endpoint"
+#~ msgstr "نقطه پایانی"
+

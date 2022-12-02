@@ -1,0 +1,7 @@
+<?php
+/*   _______________________________________
+    |  Obfuscated by PMPR - Php Obfuscator  |
+    |             638a71409b687             |
+    |_______________________________________|
+*/
+ namespace Pmpr\Module\FAQ; use Pmpr\Common\Foundation\Page\Page as BaseClass; use Pmpr\Module\FAQ\Model\Question; class Page extends BaseClass { public function __construct() { $this->slug = "\146\x61\161"; $this->title = __("\106\162\145\x71\165\x65\x6e\164\154\x79\x20\x41\163\153\145\x64\x20\x51\165\145\163\x74\x69\157\x6e\x73", PR__MDL__FAQ); $this->isPrivate = false; $this->hasBreadcrumb = true; parent::__construct(); } public function qakiyayqiysiqqeo($ewgwqamkygiqaawc, $post) : ?string { if (!($ouuscogyemygyuyi = Question::symcgieuakksimmu())) { goto asmecuqiyyswueqe; } $cuueaykuqqkueici = $ouuscogyemygyuyi->cwkywyqksyucoyia([self::ciywsqoeiymemsys => self::wmmucsiyiyusmssm, self::iuqumwggccmcuyem => [self::ciyoccqkiamemcmm => self::eeccqomoaqsawouy, self::euoaaiqkqcqcgeco => self::cqcimoqckgmaacyw]]); $suuagcecoyuweoqk = ''; foreach ($cuueaykuqqkueici as $cgiaqqwoogcwuuwq) { $suuagcecoyuweoqk .= $this->iuygowkemiiwqmiw("\161\165\145\x73\x74\x69\157\156", ["\x71\x75\145\x73\164\x69\157\156" => $cgiaqqwoogcwuuwq]); myoicgcuugciueis: } qwigomakwmyiwkgo: $ewgwqamkygiqaawc = $this->iuygowkemiiwqmiw("\160\x61\x67\x65", ["\154\151\163\164" => $suuagcecoyuweoqk, "\161\x75\145\x73\164\x69\x6f\156\163" => $cuueaykuqqkueici, self::ssmskyqgcmeiayco => $ewgwqamkygiqaawc]); asmecuqiyyswueqe: return parent::qakiyayqiysiqqeo($ewgwqamkygiqaawc, $post); } }
