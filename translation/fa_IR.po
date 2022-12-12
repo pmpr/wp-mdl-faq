@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Pmpr AMP\n"
-"POT-Creation-Date: 2022-11-23 14:29+0330\n"
-"PO-Revision-Date: 2022-11-23 14:32+0330\n"
+"Project-Id-Version: Pmpr FAQ\n"
+"POT-Creation-Date: 2022-12-10 02:14+0330\n"
+"PO-Revision-Date: 2022-12-10 02:32+0330\n"
 "Last-Translator: Farshadi <pmpr.ir@gmail.com>\n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.2.2\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-WPHeader: index.php\n"
 "X-Source-Language: en\n"
@@ -63,159 +63,15 @@ msgstr "پاسخ"
 msgid "Frequently Asked Questions"
 msgstr "سوالات متداول"
 
-#~ msgid "Something wrong on save your message."
-#~ msgstr "اشکالی در فرایند ذخیره پیغام شما رخ داده است."
+#: src/Pmpr/Module/FAQ/Setting.php:29
+msgid "Setting"
+msgstr "تنظیمات"
 
-#~ msgid "Something wrong on save your rate."
-#~ msgstr "اشکالی در ذخیره امتیاز شما رخ داده است."
+#: src/Pmpr/Module/FAQ/Setting.php:30
+msgid "FAQ Setting"
+msgstr "تنظیمات سوالات متداول"
 
-#~ msgid "Request is not valid, please try again."
-#~ msgstr "درخواست شما معتبر نیست، لطفا دوباره سعی کنید."
-
-#~ msgid "Can not save your posted data. try latter please."
-#~ msgstr "قادر به ذخیره داده‌ ارسالی شما نیستیم، لطفا مجددا تلاش کنید."
-
-#~ msgid "Required data not provided or not valid."
-#~ msgstr "داده‌های الزامی ارسال نشد‌اند یا معتبر نیستند."
-
-#~ msgid "Rate is not recorded. please try again."
-#~ msgstr "امتیاز ثبت نشد، لطفا دوباره تلاش کنید."
-
-#, php-format
-#~ msgid "Rating Average %s of %s | Rating Count: %s"
-#~ msgstr "میانگین امتیاز  %s از %s |  تعداد امتیاز: %s"
-
-#~ msgid "Your opinion is important to us"
-#~ msgstr "نظر شما برای ما مهمه"
-
-#, php-format
-#~ msgid "Rate this post %s to %s"
-#~ msgstr "به این نوشته از %s تا %s امتیاز بدین"
-
-#, php-format
-#~ msgid "You have already rate %s to this post."
-#~ msgstr "شما قبلا امتیاز %s را برای این نوشته ثبت کرده‌اید."
-
-#~ msgid "Rating Feedback"
-#~ msgstr "بازخورد امتیاز"
-
-#~ msgid "Submit"
-#~ msgstr "تایید"
-
-#~ msgid "Feedback"
-#~ msgstr "بازخورد"
-
-#~ msgid "Feedbacks"
-#~ msgstr "بازخوردها"
-
-#~ msgid "Text"
-#~ msgstr "متن"
-
-#~ msgid "Post"
-#~ msgstr "نوشته‌"
-
-#~ msgid "Owner"
-#~ msgstr "کاربر"
-
-#~ msgid "IP"
-#~ msgstr "آی پی"
-
-#~ msgid "Show Post"
-#~ msgstr "نمایش نوشته‌ها"
-
-#~ msgid "Rate"
-#~ msgstr "امتیاز"
-
-#~ msgid "Rates"
-#~ msgstr "امتیاز‌ها"
-
-#~ msgid "Value"
-#~ msgstr "مقدار"
-
-#~ msgid "Extremely Poor"
-#~ msgstr "شدیدا ضعیف"
-
-#~ msgid "Bad"
-#~ msgstr "بد"
-
-#~ msgid "Average"
-#~ msgstr "متوسط"
-
-#~ msgid "Good"
-#~ msgstr "خوب"
-
-#~ msgid "Excellent"
-#~ msgstr "عالی"
-
-#~ msgid "Rating"
-#~ msgstr "امتیازدهی"
-
-#~ msgid "Rating Setting"
-#~ msgstr "تنظیمات امتیازدهی"
-
-#~ msgid "Setting"
-#~ msgstr "تنظیمات"
-
-#~ msgid "General"
-#~ msgstr "عمومی"
-
-#~ msgid "Target Post Types"
-#~ msgstr "نوع نوشته‌ها"
-
-#~ msgid "Exclude Posts"
-#~ msgstr "نوشته‌های مستثنی"
-
-#~ msgid "Thanks Message"
-#~ msgstr "پیغام تشکر"
-
-#~ msgid "Thanks for your rating."
-#~ msgstr "از امتیاز‌ی که دادید متشکریم."
-
-#~ msgid "Enable Feedback"
-#~ msgstr "فعال سازی بازخورد"
-
-#~ msgid "Worse Threshold"
-#~ msgstr "آستانه بدترین امتیاز"
-
-#~ msgid "Ask a feedback question, if user rate less than threshold."
-#~ msgstr ""
-#~ "در صورتی که کاربر کمتر از آستانه امتیاز دهد، یک فرم بازخورد نشان داده "
-#~ "خواهد شد."
-
-#~ msgid "Share the reason behind this submission with us."
-#~ msgstr "علت ثبت این امتیاز کم رو با ما در میان بگذارید."
-
-#~ msgid "Feedback Message"
-#~ msgstr "پیغام بازخورد"
-
-#~ msgid "Thanks for your feedback."
-#~ msgstr "بابت بازخوردتون ممنونیم."
-
-#~ msgid ""
-#~ "Sorry, this file couldn't be sanitized so for security reasons wasn't "
-#~ "uploaded"
-#~ msgstr ""
-#~ "متاسفم، قادر به پاکسازی فایل مورد نظر نبودیم، به دلایل امنیتی فایل آپلود "
-#~ "نشد"
-
-#~ msgid "Full Size"
-#~ msgstr "اندازه کامل"
-
-#~ msgid "Thumbnail"
-#~ msgstr "تصویر بند انگشتی"
-
-#~ msgid "Medium"
-#~ msgstr "متوسط"
-
-#~ msgid "Large"
-#~ msgstr "بزرگ"
-
-#~ msgid "AMP"
-#~ msgstr "شتابدهی موبایل"
-
-#~ msgid "Enable AMP"
-#~ msgstr "فعال سازی شتابدهی موبایل"
-
-#~ msgid "Endpoint"
-#~ msgstr "نقطه پایانی"
+#: src/Pmpr/Module/FAQ/Setting.php:36
+msgid "General"
+msgstr "عمومی"
 
