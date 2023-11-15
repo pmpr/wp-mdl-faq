@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             654a13c541b6a             |
+    |             6554aa4aa058d             |
     |_______________________________________|
 */
- namespace Pmpr\Module\FAQ; use Pmpr\Common\Foundation\FormGenerator\Backend\Setting\Setting as BaseClass; class Setting extends BaseClass { public function qiccuiwooiquycsg() { $this->id = self::akuociswqmoigkas(); $this->igiywquyccyiaucw(self::qoquaeuooeycomks, $this->mwikyscisascoeea()); parent::qiccuiwooiquycsg(); } public function wyyuauosmqoeucmg() { $this->title = __("\106\x41\x51\40\x53\145\164\164\151\x6e\147", PR__MDL__FAQ); $this->igiywquyccyiaucw(self::qsegwakiwaiyimyy, __("\x53\145\x74\164\151\x6e\147", PR__MDL__FAQ)); } }
+ namespace Pmpr\Module\FAQ; use Pmpr\Common\Foundation\FormGenerator\Backend\Setting\Setting as BaseClass; class Setting extends BaseClass { public function qiccuiwooiquycsg() { $this->id = self::akuociswqmoigkas(); $this->igiywquyccyiaucw(self::qoquaeuooeycomks, $this->mwikyscisascoeea()); parent::qiccuiwooiquycsg(); } public function wyyuauosmqoeucmg() { $this->title = __("\106\x41\x51\40\x53\x65\164\164\x69\x6e\147", PR__MDL__FAQ); $this->igiywquyccyiaucw(self::qsegwakiwaiyimyy, __("\123\x65\x74\x74\x69\156\x67", PR__MDL__FAQ)); } }
