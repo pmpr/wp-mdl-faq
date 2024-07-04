@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             668400d642f3d             |
+    |             66870808a604a             |
     |_______________________________________|
 */
- namespace Pmpr\Module\FAQ\Model; use Pmpr\Common\Foundation\ORM\DB\Model; abstract class Common extends Model { const qweekaqwsewcacci = "\161\165\145\x73\164\151\157\x6e\x5f\151\144"; const qaouquqcwsmaaoow = "\143\141\164\x65\147\157\x72\171\137\151\x64"; public function ckgmycmaukqgkosk() { parent::ckgmycmaukqgkosk(); $this->oyeskqayoscwciem()->okgmqaeuaeymaocm(self::akuociswqmoigkas()); } }
+ namespace Pmpr\Module\FAQ\Model; use Pmpr\Common\Foundation\ORM\DB\Model; abstract class Common extends Model { const qweekaqwsewcacci = "\161\165\145\163\164\x69\157\x6e\137\151\x64"; const qaouquqcwsmaaoow = "\143\141\164\145\147\x6f\162\x79\137\x69\144"; public function ckgmycmaukqgkosk() { parent::ckgmycmaukqgkosk(); $this->oyeskqayoscwciem()->okgmqaeuaeymaocm(self::akuociswqmoigkas()); } }
