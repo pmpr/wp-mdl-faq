@@ -4,4 +4,4 @@
     |             67c83a43e25ed             |
     |_______________________________________|
 */
- use Pmpr\Module\FAQ\FAQ; FAQ::symcgieuakksimmu();
+ namespace Pmpr\Module\FAQ; use Pmpr\Module\StructuredData\AbstractStructuredData; class StructuredData extends AbstractStructuredData { }
